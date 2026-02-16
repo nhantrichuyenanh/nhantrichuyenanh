@@ -14,7 +14,7 @@ It's hard to keep track of my TODO list because it's scattered across my Google 
 - [YouTube-Commenter-Info](https://github.com/nhantrichuyenanh/YouTube-Commenter-Info/blob/main/README.md): 5
 - [YouTube-Panel-Below-Video-Player](https://github.com/nhantrichuyenanh/YouTube-Panel-Below-Video-Player/blob/main/README.md): 1
 - [WIP-YT-Profile-Card-Info](https://github.com/nhantrichuyenanh/WIP-YT-Profile-Card-Info/blob/main/README.md#future-development): 2
-- [yt-equity](https://github.com/Kamo-Chip/yt-equity):
+- [yt-equity](https://github.com/Kamo-Chip/yt-equity): make a pull request
   - Make `#pe-check-button` open/close `#pe-popup`, not just open.
   - `#pe-popup`’s background color uses html background color for custom YouTube themes.
 - [YT-dont-scroll-on-fullscreen](https://github.com/macciek-k/YT-dont-scroll-on-fullscreen): make it work again
