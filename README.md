@@ -6,3 +6,7 @@ Unlike other developers and programmers, I don't wear many hats. I'm just a hobb
 I have one and only one goal: to make projects in order to make my life (and others who use my projects) easier and less of a nuisance.
 
 It's hard to keep track of my TODO list because it's scattered across my Google Tasks and Firefox add-ons, so I decided to centralize and put it on [GitHub](https://github.com/nhantrichuyenanh/TODO).
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/> [win-11-ofb](https://github.com/nhantrichuyenanh/win-11-ofb "Windows 11 Order of Business") | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/> [linux-distro-ofb](https://github.com/nhantrichuyenanh/linux-distro-ofb "Linux distribution Order of Business") |
+| --- | --- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/TexasInstruments-Logo.svg" width="40"/> [ti84plusce](https://github.com/nhantrichuyenanh/ti84plusce "TI-84 Plus CE") |  |
