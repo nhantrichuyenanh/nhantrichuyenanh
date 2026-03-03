@@ -1,5 +1,5 @@
 ヾ(^_^)
-Hi guys, I'm Nhân. Let me guess, you probably came from my Linktree or Firefox add-ons.
+Hi guys, I'm Nhân.
 
 Unlike other developers and programmers, I don't wear many hats. I'm just a hobbyist in programming languages specifically and software/OS generally.
 
